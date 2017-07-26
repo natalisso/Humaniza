@@ -4,8 +4,20 @@
              xmlns:local="clr-namespace:Humaniza"
              x:Class="Humaniza.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout Margin="20" VerticalOptions="Center">
+        <Image HeightRequest="200" Source="Icon.png"></Image>
+
+        <Label Text="Email" TextColor="#9900ff" ></Label>
+
+        <Entry x:Name="Email"></Entry>
+
+        <Label Text="Senha" TextColor="#9900ff" ></Label>
+
+        <Entry x:Name="Senha" ></Entry>
+
+        <Button x:Name="login" Text="login"  BackgroundColor="#9900ff"></Button>
+
+        <Button x:Name="Cadastrar" Text="cadastrar" BackgroundColor="#9900ff"></Button>
+    </StackLayout>
 
 </ContentPage>
