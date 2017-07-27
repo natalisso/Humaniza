@@ -2,38 +2,6 @@ Humaniza.Droid.MainActivity, Humaniza.Android;md5a219ec9bf37a74d9a3357293498c872
 Humaniza.Droid.MainActivity, Humaniza.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a219ec9bf37a74d9a3357293498c8729.MainActivity
 Humaniza.Droid.MainActivity;md5a219ec9bf37a74d9a3357293498c8729.MainActivity
 humaniza.droid.MainActivity;md5a219ec9bf37a74d9a3357293498c8729.MainActivity
-Xamarin.Forms.GoogleMaps.Android.MapRenderer, Xamarin.Forms.GoogleMaps.Android;md59e1546199385abe7b23a89990a0f94aa.MapRenderer
-Xamarin.Forms.GoogleMaps.Android.MapRenderer, Xamarin.Forms.GoogleMaps.Android, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null;md59e1546199385abe7b23a89990a0f94aa.MapRenderer
-Xamarin.Forms.GoogleMaps.Android.MapRenderer;md59e1546199385abe7b23a89990a0f94aa.MapRenderer
-xamarin.forms.googlemaps.android.MapRenderer;md59e1546199385abe7b23a89990a0f94aa.MapRenderer
-Xamarin.Forms.GoogleMaps.Android.DroidAsyncTileLayer, Xamarin.Forms.GoogleMaps.Android;md59e1546199385abe7b23a89990a0f94aa.DroidAsyncTileLayer
-Xamarin.Forms.GoogleMaps.Android.DroidAsyncTileLayer, Xamarin.Forms.GoogleMaps.Android, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null;md59e1546199385abe7b23a89990a0f94aa.DroidAsyncTileLayer
-Xamarin.Forms.GoogleMaps.Android.DroidAsyncTileLayer;md59e1546199385abe7b23a89990a0f94aa.DroidAsyncTileLayer
-xamarin.forms.googlemaps.android.DroidAsyncTileLayer;md59e1546199385abe7b23a89990a0f94aa.DroidAsyncTileLayer
-Xamarin.Forms.GoogleMaps.Android.DroidSyncTileLayer, Xamarin.Forms.GoogleMaps.Android;md59e1546199385abe7b23a89990a0f94aa.DroidSyncTileLayer
-Xamarin.Forms.GoogleMaps.Android.DroidSyncTileLayer, Xamarin.Forms.GoogleMaps.Android, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null;md59e1546199385abe7b23a89990a0f94aa.DroidSyncTileLayer
-Xamarin.Forms.GoogleMaps.Android.DroidSyncTileLayer;md59e1546199385abe7b23a89990a0f94aa.DroidSyncTileLayer
-xamarin.forms.googlemaps.android.DroidSyncTileLayer;md59e1546199385abe7b23a89990a0f94aa.DroidSyncTileLayer
-Xamarin.Forms.GoogleMaps.Android.DroidUrlTileLayer, Xamarin.Forms.GoogleMaps.Android;md59e1546199385abe7b23a89990a0f94aa.DroidUrlTileLayer
-Xamarin.Forms.GoogleMaps.Android.DroidUrlTileLayer, Xamarin.Forms.GoogleMaps.Android, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null;md59e1546199385abe7b23a89990a0f94aa.DroidUrlTileLayer
-Xamarin.Forms.GoogleMaps.Android.DroidUrlTileLayer;md59e1546199385abe7b23a89990a0f94aa.DroidUrlTileLayer
-xamarin.forms.googlemaps.android.DroidUrlTileLayer;md59e1546199385abe7b23a89990a0f94aa.DroidUrlTileLayer
-Xamarin.Forms.GoogleMaps.Android.Logics.DelegateSnapshotReadyCallback, Xamarin.Forms.GoogleMaps.Android;md57bf1d0da72f7ec8d7a3464abb6be9da3.DelegateSnapshotReadyCallback
-Xamarin.Forms.GoogleMaps.Android.Logics.DelegateSnapshotReadyCallback, Xamarin.Forms.GoogleMaps.Android, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null;md57bf1d0da72f7ec8d7a3464abb6be9da3.DelegateSnapshotReadyCallback
-Xamarin.Forms.GoogleMaps.Android.Logics.DelegateSnapshotReadyCallback;md57bf1d0da72f7ec8d7a3464abb6be9da3.DelegateSnapshotReadyCallback
-xamarin.forms.googlemaps.android.logics.DelegateSnapshotReadyCallback;md57bf1d0da72f7ec8d7a3464abb6be9da3.DelegateSnapshotReadyCallback
-Xamarin.Forms.GoogleMaps.Android.Logics.DelegateCancelableCallback, Xamarin.Forms.GoogleMaps.Android;md57bf1d0da72f7ec8d7a3464abb6be9da3.DelegateCancelableCallback
-Xamarin.Forms.GoogleMaps.Android.Logics.DelegateCancelableCallback, Xamarin.Forms.GoogleMaps.Android, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null;md57bf1d0da72f7ec8d7a3464abb6be9da3.DelegateCancelableCallback
-Xamarin.Forms.GoogleMaps.Android.Logics.DelegateCancelableCallback;md57bf1d0da72f7ec8d7a3464abb6be9da3.DelegateCancelableCallback
-xamarin.forms.googlemaps.android.logics.DelegateCancelableCallback;md57bf1d0da72f7ec8d7a3464abb6be9da3.DelegateCancelableCallback
-Xamarin.Forms.GoogleMaps.Android.Extensions.OnMapReadyCallback, Xamarin.Forms.GoogleMaps.Android;md52216303cd1591f607db7753ea8cbe6ec.OnMapReadyCallback
-Xamarin.Forms.GoogleMaps.Android.Extensions.OnMapReadyCallback, Xamarin.Forms.GoogleMaps.Android, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null;md52216303cd1591f607db7753ea8cbe6ec.OnMapReadyCallback
-Xamarin.Forms.GoogleMaps.Android.Extensions.OnMapReadyCallback;md52216303cd1591f607db7753ea8cbe6ec.OnMapReadyCallback
-xamarin.forms.googlemaps.android.extensions.OnMapReadyCallback;md52216303cd1591f607db7753ea8cbe6ec.OnMapReadyCallback
-Xamarin.Forms.Maps.Android.MapRenderer, Xamarin.Forms.Maps.Android;md5d956392b2b421ac2c9ccfc063253dcd9.MapRenderer
-Xamarin.Forms.Maps.Android.MapRenderer, Xamarin.Forms.Maps.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null;md5d956392b2b421ac2c9ccfc063253dcd9.MapRenderer
-Xamarin.Forms.Maps.Android.MapRenderer;md5d956392b2b421ac2c9ccfc063253dcd9.MapRenderer
-xamarin.forms.maps.android.MapRenderer;md5d956392b2b421ac2c9ccfc063253dcd9.MapRenderer
 Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android;md5b60ffeb829f638581ab2bb9b1a7f4f3f.CellAdapter
 Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null;md5b60ffeb829f638581ab2bb9b1a7f4f3f.CellAdapter
 Xamarin.Forms.Platform.Android.CellAdapter;md5b60ffeb829f638581ab2bb9b1a7f4f3f.CellAdapter

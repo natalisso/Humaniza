@@ -11,8 +11,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="Humaniza.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <meta-data android:name="com.google.android.geo.API_KEY" android:value="C:\Users\victo\AppData\Local\Xamarin\Mono for Android\debug.keystore" />
+  <application android:name="android.app.Application" android:allowBackup="true" android:label="Humaniza.Android" android:icon="@drawable/icon" android:debuggable="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Humaniza" android:theme="@style/MainTheme" android:name="md5a219ec9bf37a74d9a3357293498c8729.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

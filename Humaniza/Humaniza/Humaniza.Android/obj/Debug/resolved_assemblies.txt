@@ -2,10 +2,6 @@ C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debu
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\FormsViewGroup.dll
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll
-C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\Xamarin.Forms.GoogleMaps.Android.dll
-C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\Xamarin.Forms.GoogleMaps.dll
-C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\Xamarin.Forms.Maps.Android.dll
-C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\Xamarin.Forms.Maps.dll
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
@@ -51,7 +47,6 @@ C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debu
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\System.Linq.dll
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
-C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\System.Net.Http.dll
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll
 C:\Users\victo\Source\Repos\Humaniza\Humaniza\Humaniza\Humaniza.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll

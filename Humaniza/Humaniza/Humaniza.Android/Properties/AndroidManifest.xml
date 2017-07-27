@@ -7,8 +7,5 @@
 	<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
 	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-	<application android:label="Humaniza.Android">
-    <meta-data android:name ="com.google.android.geo.API_KEY"
-               android:value ="C:\Users\victo\AppData\Local\Xamarin\Mono for Android\debug.keystore"/>
-  </application>
+	
 </manifest>
