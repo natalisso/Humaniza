@@ -13,8 +13,8 @@ namespace Humaniza
 		{
 			InitializeComponent();
 
-			MainPage = new Humaniza.MainPage();
-		}
+            MainPage = new NavigationPage(new MainPage());
+        }
 
 		protected override void OnStart ()
 		{

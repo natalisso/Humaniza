@@ -20,7 +20,8 @@ namespace Humaniza.Droid
 			base.OnCreate (bundle);
 
 			global::Xamarin.Forms.Forms.Init (this, bundle);
-			LoadApplication (new Humaniza.App ());
+            Xamarin.FormsMaps.Init(this, bundle);
+            LoadApplication (new Humaniza.App ());
 		}
 	}
 }

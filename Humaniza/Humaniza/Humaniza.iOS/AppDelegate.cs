@@ -23,7 +23,8 @@ namespace Humaniza.iOS
 		public override bool FinishedLaunching(UIApplication app, NSDictionary options)
 		{
 			global::Xamarin.Forms.Forms.Init ();
-			LoadApplication (new Humaniza.App ());
+            Xamarin.FormsMaps.Init();
+            LoadApplication (new Humaniza.App ());
 
 			return base.FinishedLaunching (app, options);
 		}

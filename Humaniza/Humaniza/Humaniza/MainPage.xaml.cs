@@ -12,6 +12,12 @@ namespace Humaniza
 		public MainPage()
 		{
 			InitializeComponent();
-		}
+
+
+            async void OnLogin(object sender, EventArgs e)
+            {
+                await Navigation.PushAsync(new MapaPage());
+            }
+        }
 	}
 }
